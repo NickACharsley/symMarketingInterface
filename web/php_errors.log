@@ -1,0 +1,7 @@
+[19-Jun-2013 15:24:59 Europe/London] PHP Notice:  Undefined index: HTTP_CLIENT_IP in C:\PhpSites\symMarketingInterface\web\app_dev.php on line 17
+[19-Jun-2013 15:24:59 Europe/London] PHP Stack trace:
+[19-Jun-2013 15:24:59 Europe/London] PHP   1. {main}() C:\PhpSites\symMarketingInterface\web\app_dev.php:0
+[28-Aug-2013 12:24:16 Europe/London] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in C:\PhpSites\symMarketingInterface\web\app_dev.php on line 15
+[28-Aug-2013 12:24:16 Europe/London] PHP Stack trace:
+[28-Aug-2013 12:24:16 Europe/London] PHP   1. {main}() C:\PhpSites\symMarketingInterface\web\app_dev.php:0
+[28-Aug-2013 12:24:16 Europe/London] PHP   2. in_array() C:\PhpSites\symMarketingInterface\web\app_dev.php:15
